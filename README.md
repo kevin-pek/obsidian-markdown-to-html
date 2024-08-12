@@ -1,6 +1,6 @@
 # ObsidianPrintify
 
-ObsidianPrint is a command-line tool to convert Obsidian-flavored Markdown files into multi-column HTML files, which can then be easily saved as PDFs using the browser and printed.
+ObsidianPrintify is a command-line tool to convert Obsidian-flavored Markdown files into multi-column HTML files, which can then be easily saved as PDFs using the browser and printed.
 
 This tool handles the following:
 
